@@ -1,5 +1,7 @@
 # Realistic Vehicle Failure
 
+THIS IS NOT MY WORK, THE ORIGINAL SCRIPT DOES NOT WORK AND I FOUND AN OLD ONE SITTING ON MY COMPUTER!
+
 This is a mod for FiveM / GTA V that aims to create realistic vehicle failure.
 
 ## Features:
@@ -43,7 +45,7 @@ Known to be incompatible with BVA (Basic Vehicle Actions). Tested with BVA v2.01
 
 ## Download
 
-https://github.com/iEns/RealisticVehicleFailure/archive/master.zip
+https://github.com/0121done/RealisticVehicleFailure
 
 ## Installation
 
